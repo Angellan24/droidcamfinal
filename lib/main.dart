@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'connect.dart';
+import 'welcome.dart';
+import 'drop.dart';
 void main() => runApp(DroidCam());
 
 class DroidCam extends StatelessWidget {
